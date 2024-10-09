@@ -15,15 +15,6 @@ A web-based clone of the popular music streaming service, Spotify. This project 
 - **Frontend:** HTML, CSS, JavaScript
 - **APIs:** Spotify API for fetching song data
 
-- 
-## Getting Started
-
-To get a local copy of this project up and running, follow these steps:
-
-### Prerequisites
-
-- Node.js (v14 or later)
-
 
 ### Installation
 
